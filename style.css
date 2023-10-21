@@ -1,0 +1,38 @@
+body{
+
+            background-color: #38565e;
+
+}
+
+
+.div-box{    
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+}
+
+.box-1{
+    width: 200px;
+    height: 200px;
+    margin-right: 110px;
+    background-color: #c91616;
+    position: absolute;
+}
+
+.box-2{
+    width: 200px;
+    height: 200px;
+    background-color: #071479;
+    position: absolute;
+    top: 110px;
+    left: 110px;
+}
+
+.box-3{
+    width: 200px;
+    height: 200px;
+    background-color: #037036;
+    position: absolute;
+    top: 110px;
+    left: 110px;
+}
